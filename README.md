@@ -3,14 +3,23 @@
 Обе подписки явлвяются лишь сборником всех качественных (по моему мнению) подписок. Сам я лишь собрал их воедино, чтобы было удобно
 
 Подписка WL собрана из:
+
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt
+
 https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt
+
 https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
+
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
+
 https://obwl.obprojects.lol/sub.txt
+
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist
 
 Подписка BL собрана из:
+
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
+
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt
+
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt
